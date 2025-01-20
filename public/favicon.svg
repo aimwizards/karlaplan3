@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Background Circle -->
+  <circle cx="50" cy="50" r="48" fill="#1e40af" />
+  
+  <!-- K letter stylized as a house/building -->
+  <path d="M35 25 L35 75 M35 50 L65 25 M35 50 L65 75" 
+        stroke="white" 
+        stroke-width="8" 
+        stroke-linecap="round" 
+        fill="none" />
+</svg>
