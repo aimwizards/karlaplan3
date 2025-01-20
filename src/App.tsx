@@ -218,7 +218,7 @@ function App() {
                   </a>
                   
                   <a 
-                    href="https://www.instagram.com/karlaplanentreprenad.se"
+                    href="https://www.instagram.com/karlaplanentreprenad.se/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="group bg-black/30 backdrop-blur-sm text-white border-2 border-white/20 p-4 rounded-full
